@@ -1,7 +1,7 @@
 ---
 title: "Ven a empeñár con nosotros!"
 description: "Ven a empeñár con nosotros, te podemos ayudar economicamente con tus productos, trae tus joyas y electrodomesticos, nosotros te ayudamos."
-picture: Empeño(2).jpg
+picture: blog.jpg
 
 label_default: "alice" 
 label_primary: "story"
