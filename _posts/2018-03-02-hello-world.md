@@ -1,5 +1,5 @@
 ---
-title: "Ven a empeñár con nosros!"
+title: "Ven a empeñár con nosotros!"
 description: "Ven a empeñár con nosotros, te podemos ayudar economicamente con tus productos, trae tus joyas y electrodomesticos, nosotros te ayudamos."
 picture: blog2.jpg
 
